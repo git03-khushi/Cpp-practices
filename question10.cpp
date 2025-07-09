@@ -21,6 +21,5 @@ int main()
         fibNext = fib1 + fib2;
         fib1 = fib2;
         fib2 = fibNext;
-        
     }
 }
